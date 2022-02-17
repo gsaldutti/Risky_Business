@@ -6,6 +6,8 @@ Credit risk is very tough to predict. In this project we want to take a look at 
 Results:
 Naive Random Oversampling results: Our balanced accuracy test it 67%, the precision for the high_risk has a very low positivity at 1% and the recall is 74%
 
+![RB1](RB1.png)
+
 # Unit 11 - Risky Business
  
 
