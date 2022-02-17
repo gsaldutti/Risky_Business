@@ -8,6 +8,11 @@ Naive Random Oversampling results: Our balanced accuracy test it 67%, the precis
 
 ![RB1](RB1.png)
 
+SMOTE oversampling results: the accuracy score is 66.2%, the precision for the high_risk loans has a low positvity again at 1% and recall is 69% overall
+
+
+![RB2](RB2.png)
+
 # Unit 11 - Risky Business
  
 
